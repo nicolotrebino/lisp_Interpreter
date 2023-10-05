@@ -17,10 +17,11 @@ You can run and test the interpreter, located in the Project folder directory, u
 $ ./exe_file_name ../LispInterpreter_TestFiles/txt_file_name
 ```
 You can also change the program output by changing the value of the DEBUG variable in the "lispInterpreter.cpp" file.
+
 4 different debugging levels can be used:
-0 - the output will only be the evaluation of the program.
-1 - will be displayed the evaluation of the program and the tokens created by the interpreter during the tokenization phase.
-2 - will be displayed the evaluation of the program and the program read, i.e. (in a theoretical way) the syntax tree created during the parsing phase.
-3 - all possible outputs will be displayed, i.e. tokens, syntax tree, and program evaluation.
+* 0 --> the output will only be the evaluation of the program.
+* 1 --> will display the evaluation of the program and the tokens created by the interpreter during the tokenization phase.
+* 2 --> will display the evaluation of the program and the program read, i.e. (in a theoretical way) the syntax tree created during the parsing phase.
+* 3 --> all possible outputs will be displayed, i.e. tokens, syntax tree, and program evaluation.
 
 Have fun with your interpreter!
