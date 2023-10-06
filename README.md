@@ -2,6 +2,10 @@
 This is an interpreter for lisp-like languages, created for a university project of the "Informatics and Computation" course in the second year of the computer engineering university in Genoa.
 The project specifications can be found in the "Project_Spec" PDF.
 
+## Requirements
+* A linux system
+* g++ compiler
+
 ## How to get started
 All you need to do is create the executable file in the Project folder using the command:
 ```console
