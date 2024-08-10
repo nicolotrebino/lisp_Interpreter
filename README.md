@@ -28,4 +28,10 @@ You can also change the program output by changing the value of the DEBUG variab
 * 2 --> will display the evaluation of the program and the program read, i.e. (in a theoretical way) the syntax tree created during the parsing phase.
 * 3 --> all possible outputs will be displayed, i.e. tokens, syntax tree, and program evaluation.
 
+## Examples
+<p align="center">
+  <img src="./Spec/Input.png" alt="Input text" style="width: 37%; margin-right: 10px;" />
+  <img src="./Spec/Result.png" alt="Output Text" style="width: 53%;" />
+</p>
+
 Have fun with your interpreter!
