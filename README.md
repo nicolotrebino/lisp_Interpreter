@@ -1,6 +1,7 @@
 ## Lisp_Interpreter
 This is an interpreter for lisp-like languages, created for a university project of the "Informatics and Computation" course in the second year of the computer engineering university in Genoa.
-The project specifications can be found in the "Project_Spec" PDF.
+
+The project specifications can be found in [Project Spec](./Spec/Project_Spec.pdf).
 
 ## Requirements
 * A linux system
@@ -33,5 +34,9 @@ You can also change the program output by changing the value of the DEBUG variab
   <img src="./Spec/Input.png" alt="Input text" style="width: 37%; margin-right: 10px;" />
   <img src="./Spec/Result.png" alt="Output Text" style="width: 53%;" />
 </p>
+
+## UML
+You can find the complete UML here: [Complete UML](./Spec/Complete_UML.png)
+![Only class UML](./Spec/Only_Class_UML.png)
 
 Have fun with your interpreter!
